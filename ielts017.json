@@ -1,0 +1,159 @@
+{
+  "id": "FT017",
+  "exam": "IELTS",
+  "listening": {
+    "parts": [
+      {
+        "id": "L1",
+        "skill": "listening",
+        "audio": "https://drive.google.com/open?id=1XMiIltuc6tJhLOptaHwE72jymtxz9od0",
+        "inst": "<h3>PART 1</h3><h3>Questions 1–10</h3><p>Complete the notes below.<br>Write ONE WORD AND/OR A NUMBER for each answer.</p><h3>Children’s Engineering Workshops</h3><p><i>Tiny Engineers (ages 4–5)</i><br>Activities:<br>- Create a cover for an <b>1</b> ____________ so they can drop it from a height without breaking it.<br>- Take part in a competition to build the tallest <b>2</b> ____________.<br>- Make a <b>3</b> ____________ powered by a balloon.</p><p><i>Junior Engineers (ages 6–8)</i><br>Activities:<br>- Build model cars, trucks and <b>4</b> ____________ and learn how to program them so they can move.<br>- Take part in a competition to build the longest <b>5</b> ____________ using card and wood.<br>- Create a short <b>6</b> ____________ with special software.<br>- Build, <b>7</b> ____________ and program a humanoid robot.</p><p>Cost for a five-week block: £50<br>Held on <b>8</b> ____________ from 10 am to 11 am.</p><p><i>Location</i><br>Building 10A, <b>9</b> ____________ Industrial Estate, Grasford<br>Plenty of <b>10</b> ____________ is available.</p>",
+        "groups": [
+          {
+            "id": "L1.g1",
+            "html": "",
+          "qs": [1,2,3,4,5,6,7,8,9,10]
+          }
+        ]
+      },
+      {
+        "id": "L2",
+        "skill": "listening",
+        "audio": "https://drive.google.com/open?id=13j7TVztJYlkz5keHaT3eMFpJwzcujnR9",
+        "inst": "<h3>PART 2</h3><h3>Questions 11–20</h3><h3>Questions 11–14</h3><p>Choose the correct letter, <b>A</b>, <b>B</b> or <b>C</b>.</p><p><b>11</b> Stevenson’s was founded in<br><b>A</b> 1923.<br><b>B</b> 1924.<br><b>C</b> 1926.</p><p><b>12</b> Originally, Stevenson’s manufactured goods for<br><b>A</b> the healthcare industry.<br><b>B</b> the automotive industry.<br><b>C</b> the machine tools industry.</p><p><b>13</b> What does the speaker say about the company premises?<br><b>A</b> The company has recently moved.<br><b>B</b> The company has no plans to move.<br><b>C</b> The company is going to move shortly.</p><p><b>14</b> The programme for the work experience group includes<br><b>A</b> time to do research.<br><b>B</b> meetings with a teacher.<br><b>C</b> talks by staff.</p><h3>Questions 15–20</h3><p>Label the map below.<br>Write the correct letter, <b>A–J</b>, next to Questions <b>15–20</b>.</p><img src='https://drive.google.com/file/d/1xU3gIGtPtC9xKj6HV_8k-4uuqYLJue1D/view'><p><b>15</b> coffee room : ____________<br><b>16</b> warehouse : ____________<br><b>17</b> staff canteen : ____________<br><b>18</b> meeting room : ____________<br><b>19</b> human resources : ____________<br><b>20</b> boardroom : ____________</p>",
+        "groups": [
+          {
+            "id": "L2.g1",
+            "html": "",
+            "qs": [11,12,13,14,15,16,17,18,19,20]
+          }
+        ]
+      },
+      {
+        "id": "L3",
+        "skill": "listening",
+        "audio": "https://drive.google.com/open?id=19AQ-gWfM7dIZiHyZX4uvGXK4kMkiFtQc",
+        "inst": "<h3>PART 3</h3><h3>Questions 21–30</h3><h3>Questions 21 and 22</h3><p>Choose TWO letters, <b>A–E</b>.<br>Which TWO parts of the introductory stage to their art projects do Jess and Tom agree were useful?<br><b>A</b> the Bird Park visit<br><b>B</b> the workshop sessions<br><b>C</b> the Natural History Museum visit<br><b>D</b> the projects done in previous years<br><b>E</b> the handouts with research sources</p><h3>Questions 23 and 24</h3><p>Choose TWO letters, <b>A–E</b>.<br>In which TWO ways do both Jess and Tom decide to change their proposals?<br><b>A</b> by giving a rationale for their action plans<br><b>B</b> by being less specific about the outcome<br><b>C</b> by adding a video diary presentation<br><b>D</b> by providing a timeline and a mind map<br><b>E</b> by making their notes more evaluative</p><h3>Questions 25–30</h3><p>Which personal meaning do the students decide to give to each of the following pictures?<br>Choose SIX answers from the box and write the correct letter, <b>A–H</b>, next to Questions <b>25–30</b>.</p><h3>Personal meanings</h3><p><b>A</b> a childhood memory<br><b>B</b> hope for the future<br><b>C</b> fast movement<br><b>D</b> a potential threat<br><b>E</b> the power of colour<br><b>F</b> the continuity of life<br><b>G</b> protection of nature<br><b>H</b> a confused attitude to nature</p><h3>Pictures</h3><p><b>25</b> Falcon (Landseer) : ____________<br><b>26</b> Fish hawk (Audubon) : ____________<br><b>27</b> Kingfisher (van Gogh) : ____________<br><b>28</b> Portrait of William Wells : ____________<br><b>29</b> Vairumati (Gauguin) : ____________<br><b>30</b> Portrait of Giovanni de Medici : ____________</p>",
+        "groups": [
+          {
+            "id": "L3.g1",
+            "html": "",
+            "qs": [21,22,23,24,25,26,27,28,29,30]
+          }
+        ]
+      },
+      {
+        "id": "L4",
+        "skill": "listening",
+        "audio": "https://drive.google.com/open?id=1cSeUCqAC2kbQBmnAWJWNjQjczQ6kge0Z",
+        "inst": "<h3>PART 4</h3><h3>Questions 31–40</h3><p>Complete the notes below.<br>Write ONE WORD ONLY for each answer.</p><h3>Stoicism</h3><p>Stoicism is still relevant today because of its <b>31</b> ____________ appeal.</p><p><i>Ancient Stoics</i><br>- Stoicism was founded over 2,000 years ago in Greece.<br>- The Stoics’ ideas are surprisingly well known, despite not being intended for <b>32</b> ____________.</p><p><i>Stoic principles</i><br>- Happiness could be achieved by leading a virtuous life.<br>- Controlling emotions was essential.<br>- Epictetus said that external events cannot be controlled but the <b>33</b> ____________ people make in response can be controlled.<br>- A Stoic is someone who has a different view on experiences which others would consider as <b>34</b> ____________.</p><p><i>The influence of Stoicism</i><br>- George Washington organised a <b>35</b> ____________ about Cato to motivate his men.<br>- The French artist Delacroix was a Stoic.<br>- Adam Smith’s ideas on <b>36</b> ____________ were influenced by Stoicism.<br>- Some of today’s political leaders are inspired by the Stoics.<br>- Cognitive Behaviour Therapy (CBT):<br>— the treatment for <b>37</b> ____________ is based on ideas from Stoicism<br>— people learn to base their thinking on <b>38</b> ____________.<br>- In business, people benefit from Stoicism by identifying obstacles as <b>39</b> ____________.</p><p><i>Relevance of Stoicism</i><br>- It requires a lot of <b>40</b> ____________, but Stoicism can help people to lead a good life.<br>- It teaches people that having a strong character is more important than anything else.</p>",
+        "groups": [
+          {
+            "id": "L4.g1",
+            "html": "",
+            "qs": [31,32,33,34,35,36,37,38,39,40]
+          }
+        ]
+      }
+    ]
+  },
+  "reading": {
+    "parts": [
+      {
+        "id": "R1",
+        "skill": "reading",
+        "passage": "<h3>READING PASSAGE 1</h3><p>You should spend about 20 minutes on <b>Questions 1–13</b>, which are based on Reading Passage 1 below.</p><h3>Why we need to protect polar bears</h3><p>Polar bears are being increasingly threatened by the effects of climate change, but their disappearance could have far-reaching consequences. They are uniquely adapted to the extreme conditions of the Arctic Circle, where temperatures can reach –40°C. One reason for this is that they have up to 11 centimetres of fat underneath their skin. Humans with comparative levels of adipose tissue would be considered obese and would be likely to suffer from diabetes and heart disease. Yet the polar bear experiences no such consequences.</p><p>A 2014 study by Shi Ping Liu and colleagues sheds light on this mystery. They compared the genetic structure of polar bears with that of their closest relatives from a warmer climate, the brown bears. This allowed them to determine the genes that have allowed polar bears to survive in one of the toughest environments on Earth. Liu and his colleagues found the polar bears had a gene known as APoB, which reduces levels of low-density lipoproteins (LDLs) – a form of 'bad' cholesterol. In humans, mutations of this gene are associated with increased risk of heart disease. Polar bears may therefore be an important study model to understand heart disease in humans.</p><p>The genome of the polar bear may also provide the solution for another condition, one that particularly affects our older generation: osteoporosis. This is a disease where bones show reduced density, usually caused by insufficient exercise, reduced calcium intake or food starvation. Bone tissue is constantly being remodelled, meaning that bone is added or removed, depending on nutrient availability and the stress that the bone is under. Female polar bears, however, undergo extreme conditions during every pregnancy. Once autumn comes around, these females will dig maternity dens in the snow and will remain there throughout the winter, both before and after the birth of their cubs. This process results in about six months of fasting, where the female bears have to keep themselves and their cubs alive, depleting their own calcium and calorie reserves. Despite this, their bones remain strong and dense.</p><p>Physiologists Alanda Lennox and Allen Goodship found an explanation for this paradox in 2008. They discovered that pregnant bears were able to increase the density of their bones before they started to build their dens. In addition, six months later, when they finally emerged from the den with their cubs, there was no evidence of significant loss of bone density. Hibernating brown bears do not have this capacity and must therefore resort to major bone remodellation in the following spring. If the mechanism of bone remodelling in polar bears can be understood, many bedridden humans, and even astronauts, could potentially benefit.</p><p>The medical benefits of the polar bear for humanity certainly have their importance in our conservation efforts, but these should not be the only factors taken into consideration. We tend to want to protect animals we think are intelligent and possess emotions, such as elephants and primates. Bears, on the other hand, seem to be perceived as stupid and in many cases violent. And yet anecdotal evidence from the field challenges those assumptions, suggesting for example that polar bears have good problem-solving abilities. A male bear called GoGo in Tennoji Zoo, Osaka, has even been observed making use of a tool to manipulate his environment. The bear used a tree branch on multiple occasions to dislodge a piece of meat hung out of his reach. Problem-solving ability has also been witnessed in wild polar bears, although not as obviously as with GoGo. A calculated dive by a male bear involved running and jumping onto barrels in an attempt to get to a photographer standing on a platform four metres high.</p><p>In other studies, such as one by Alison Ames in 2008, polar bears showed deliberate and focussed manipulation. For example, Ames observed bears putting objects in piles and then knocking them over in what appeared to be a game. The study demonstrates that bears are capable of agile and thought-out behaviours. These examples suggest bears have greater creativity and problem-solving abilities than previously thought.</p><p>As for emotions, while the evidence is once again anecdotal, many bears have been seen to hit out at ice and snow – seemingly out of frustration – when they have just missed out on a kill. Moreover, polar bears can form unusual relationships with other species, including playing with the dogs used to pull sleds in the Arctic. Remarkably, one hand-raised polar bear called Agee has formed a close relationship with her owner Mark Dumas to the point where they even swim together. This is even more astonishing since polar bears are known to actively hunt humans in the wild.</p><p>If climate change were to lead to their extinction, this would mean not only the loss of potential breakthroughs in human medicine, but more importantly, the disappearance of an intelligent, majestic animal.</p>",
+        "groups": [
+          {
+            "id": "R1.g1",
+            "html": "<h3>Questions 1-7</h3><p>Do the following statements agree with the information given in Reading Passage 1?</p><p><b>TRUE</b> if the statement agrees with the information<br><b>FALSE</b> if the statement contradicts the information<br><b>NOT GIVEN</b> if there is no information on this</p><p><b>1.</b> Polar bears suffer from various health problems due to the build-up of fat under their skin.</p><p><b>2.</b> The study done by Liu and his colleagues compared different groups of polar bears.</p><p><b>3.</b> Liu and colleagues were the first researchers to compare polar bears and brown bears genetically.</p><p><b>4.</b> Polar bears are able to control their levels of 'bad' cholesterol by genetic means.</p><p><b>5.</b> Female polar bears are able to survive for about six months without food.</p><p><b>6.</b> It was found that the bones of female polar bears were very weak when they came out of their dens in spring.</p><p><b>7.</b> The polar bear's mechanism for increasing bone density could also be used by people one day.</p>",
+            "qs": [1,2,3,4,5,6,7]
+          },
+          {
+            "id": "R1.g2",
+            "html": "<h3>Questions 8-13</h3><p>Complete the table below.</p><p>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</p><p><i><b>Reasons why polar bears should be protected</b></i></p><p>People think of bears as unintelligent and <b>8__________</b>.</p><p>However, this may not be correct. For example:</p><p>- In Tennoji Zoo, a bear has been seen using a branch as a <b>9__________</b>. This allowed him to knock down some <b>10__________</b>.</p><p>- A wild polar bear worked out a method of reaching a platform where a <b>11__________</b> was located.</p><p>- Polar bears have displayed behaviour such as conscious manipulation of objects and activity similar to a <b>12__________</b>.</p><p>Bears may also display emotions. For example:</p><p>- They may make movements suggesting <b>13__________</b> if disappointed when hunting.</p><p>- They may form relationships with other species.</p>",
+            "qs": [8,9,10,11,12,13]
+          }  
+        ]
+      },
+      {
+        "id": "R2",
+        "skill": "reading",
+        "passage": "<h3>READING PASSAGE 2</h3><p>You should spend about 20 minutes on <b>Questions 14–26</b>, which are based on Reading Passage 2 below.</p><h3>The Step Pyramid of Djoser</h3><p><b>A.</b> The pyramids are the most famous monuments of ancient Egypt and still hold enormous interest for people in the present day. These grand, impressive tributes to the memory of the Egyptian kings have become linked with the country even though other cultures, such as the Chinese and Mayan, also built pyramids. The evolution of the pyramid form has been written and argued about for centuries. However, there is no question that, as far as Egypt is concerned, it began with one monument to one king designed by one brilliant architect: the Step Pyramid of Djoser at Saqqara.</p><p><b>B.</b> Djoser was the first king of the Third Dynasty of Egypt and the first to build in stone. Prior to Djoser's reign, tombs were rectangular monuments made of dried clay brick, which covered underground passages where the deceased person was buried. For reasons which remain unclear, Djoser's main official, whose name was Imhotep, conceived of building a taller, more impressive tomb for his king by stacking stone slabs on top of one another, progressively making them smaller, to form the shape now known as the Step Pyramid. Djoser is thought to have reigned for 19 years, but some historians and scholars attribute a much longer time for his rule, owing to the number and size of the monuments he built.</p><p><b>C.</b> The Step Pyramid has been thoroughly examined and investigated over the last century, and it is now known that the building process went through many different stages. Historian Marc Van de Mieroop comments on this, writing ''Much experimentation was involved, which is especially clear in the construction of the pyramid in the center of the complex. It had several plans … before it became the first Step Pyramid in history, piling six levels on top of one another … The weight of the enormous mass was a challenge for the builders, who placed the stones at an inward incline in order to prevent the monument breaking up.''</p><p><b>D.</b> When finally completed, the Step Pyramid rose 62 metres high and was the tallest structure of its time. The complex in which it was built was the size of a city in ancient Egypt and included a temple, courtyards, shrines, and living quarters for the priests. It covered a region of 16 hectares and was surrounded by a wall 10.5 metres high. The wall had 13 false doors cut into it with only one true entrance cut into the south-east corner; the entire wall was then ringed by a trench 750 metres long and 40 metres wide. The false doors and the trench were incorporated into the complex to discourage unwanted visitors. If someone wished to enter, he or she would have needed to know in advance how to find the location of the true opening in the wall. Djoser was so proud of his accomplishment that he broke the tradition of having only his own name on the monument and had Imhotep's name carved on it as well.</p><p><b>E.</b> The burial chamber of the tomb, where the king's body was laid to rest, was dug beneath the base of the pyramid, surrounded by a vast maze of long tunnels that had rooms off them to discourage robbers. One of the most mysterious discoveries found inside the pyramid was a large number of stone vessels. Over 40,000 of these vessels, of various forms and shapes, were discovered in storerooms off the pyramid's underground passages. They are inscribed with the names of rulers from the First and Second Dynasties of Egypt and made from different kinds of stone. There is no agreement among scholars and archaeologists on why the vessels were placed in the tomb of Djoser or what they were supposed to represent. The archaeologist Jean-Philippe Lauer, who excavated most of the pyramid and complex, believes they were originally stored and then given a ''proper burial'' by Djoser in his pyramid to honor his predecessors. There are other historians, however, who claim the vessels were dumped into the shafts as yet another attempt to prevent grave robbers from getting to the king's burial chamber.</p><p><b>F.</b> Unfortunately, all of the precautions and intricate design of the underground network did not prevent ancient robbers from finding a way in. Djoser's grave goods, and even his body, were stolen at some point in the past and all archaeologists found were a small number of his valuables overlooked by the thieves. There was enough left throughout the pyramid and its complex, however, to astonish and amaze the archaeologists who excavated it.</p><p><b>G.</b> Egyptologist Miroslav Verner writes, ''Few monuments hold a place in human history as significant as that of the Step Pyramid in Saqqara … It can be said without exaggeration that this pyramid complex constitutes a milestone in the evolution of monumental stone architecture in Egypt and in the world as a whole.'' The Step Pyramid was a revolutionary advance in architecture and became the archetype which all the other great pyramid builders of Egypt would follow.</p>",
+        "groups": [
+          {
+            "id": "R2.g1",
+            "html": "<h3>Questions 14-20</h3><p>Reading Passage 2 has seven paragraphs, <b>A-G.</b></p><p>Choose the correct heading for each paragraph from the list of headings below.</p><p><i><b>List of Headings</b></i><br>i. The areas and artefacts within the pyramid itself<br>ii. A difficult task for those involved<br>iii. A king who saved his people<br>iv. A single certainty among other less definite facts<br>v. An overview of the external buildings and areas<br>vi. A pyramid design that others copied<br>vii. An idea for changing the design of burial structures<br>viii. An incredible experience despite the few remains<br>ix. The answers to some unexpected questions</p><p><b>14.</b> Paragraph A<br><b>15.</b> Paragraph B<br><b>16.</b> Paragraph C<br><b>17.</b> Paragraph D<br><b>18.</b> Paragraph E<br><b>19.</b> Paragraph F<br><b>20.</b> Paragraph G</p>",
+            "qs": [14,15,16,17,18,19,20]
+          },
+          {
+            "id": "R2.g2",
+            "html": "<h3>Questions 21-24</h3><p>Complete the notes below.</p><p>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</p><p><i><b>The Step Pyramid of Djoser</b></i></p><p>The complex that includes the Step Pyramid and its surroundings is considered to be as big as an Egyptian <b>21__________</b> of the past. The area outside the pyramid included accommodation that was occupied by <b>22__________</b>, along with many other buildings and features.</p><p>A wall ran around the outside of the complex and a number of false entrances were built into this. In addition, a long <b>23__________</b> encircled the wall. As a result, any visitors who had not been invited were cleverly prevented from entering the pyramid grounds unless they knew the <b>24__________</b> of the real entrance.</p>",
+            "qs": [21,22,23,24]
+          },
+      {
+            "id": "R2.g3",
+            "html": "<h3>Questions 25-26</h3><p>Choose <b>TWO</b> letters, <b>A-E.</b></p><p>Which <b>TWO</b> of the following points does the writer make about King Djoser?</p><table border='1' cellspacing='0' cellpadding='1' width='100%'><tbody><tr><td><b>A.</b> Initially he had to be persuaded to build in stone rather than clay.</td></tr><tr><td><b>B.</b> There is disagreement concerning the length of his reign.</td></tr><tr><td><b>C.</b> He failed to appreciate Imhotep's part in the design of the Step Pyramid.</td></tr><tr><td><b>D.</b> A few of his possessions were still in his tomb when archaeologists found it.</td></tr><tr><td><b>E.</b> He criticised the design and construction of other pyramids in Egypt.</td></tr></tbody></table>",
+            "qs": [25,26]
+          }
+        ]
+      },
+      {
+        "id": "R3",
+        "skill": "reading",
+        "passage": "<h3>READING PASSAGE 3</h3><p>You should spend about 20 minutes on <b>Questions 27–40</b>, which are based on Reading Passage 3 below.</p><h3>The future of work</h3><p>According to a leading business consultancy, 3–14% of the global workforce will need to switch to a different occupation within the next 10–15 years, and all workers will need to adapt as their occupations evolve alongside increasingly capable machines. Automation – or ''embodied artificial intelligence'' (AI) – is one aspect of the disruptive effects of technology on the labour market. ''Disembodied AI'', like the algorithms running in our smartphones, is another.</p><p>Dr Stella Pachidi from Cambridge Judge Business School believes that some of the most fundamental changes are happening as a result of the ''algorithmication'' of jobs that are dependent on data rather than on production – the so-called knowledge economy. Algorithms are capable of learning from data to undertake tasks that previously needed human judgement, such as reading legal contracts, analysing medical scans and gathering market intelligence.</p><p>''In many cases, they can outperform humans,'' says Pachidi. ''Organisations are attracted to using algorithms because they want to make choices based on what they consider is ''perfect information'', as well as to reduce costs and enhance productivity.''</p><p>''But these enhancements are not without consequences,'' says Pachidi. ''If routine cognitive tasks are taken over by AI, how do professions develop their future experts?'' she asks. ''One way of learning about a job is ''legitimate peripheral participation'' – a novice stands next to experts and learns by observation. If this isn't happening, then you need to find new ways to learn.''</p><p>Another issue is the extent to which the technology influences or even controls the workforce. For over two years, Pachidi monitored a telecommunications company. ''The way telecoms salespeople work is through personal and frequent contact with clients, using the benefit of experience to assess a situation and reach a decision. However, the company had started using a[n] ... algorithm that defined when account managers should contact certain customers about which kinds of campaigns and what to offer them.''</p><p>The algorithm – usually built by external designers – often becomes the keeper of knowledge, she explains. In cases like this, Pachidi believes, a short-sighted view begins to creep into working practices whereby workers learn through the ''algorithm's eyes'' and become dependent on its instructions. Alternative explorations – where experimentation and human instinct lead to progress and new ideas – are effectively discouraged.</p><p>Pachidi and colleagues even observed people developing strategies to make the algorithm work to their own advantage. ''We are seeing cases where workers feed the algorithm with false data to reach their targets,'' she reports.</p><p>It's scenarios like these that many researchers are working to avoid. Their objective is to make AI technologies more trustworthy and transparent, so that organisations and individuals understand how AI decisions are made. In the meantime, says Pachidi, ''We need to make sure we fully understand the dilemmas that this new world raises regarding expertise, occupational boundaries and control.''</p><p>Economist Professor Hamish Low believes that the future of work will involve major transitions across the whole life course for everyone: ''The traditional trajectory of full-time education followed by full-time work followed by a pensioned retirement is a thing of the past,'' says Low. Instead, he envisages a multistage employment life: one where retraining happens across the life course, and where multiple jobs and no job happen by choice at different stages.</p><p>On the subject of job losses, Low believes the predictions are founded on a fallacy: ''It assumes that the number of jobs is fixed. If in 30 years, half of 100 jobs are being carried out by robots, that doesn't mean we are left with just 50 jobs for humans. The number of jobs will increase: we would expect there to be 150 jobs.''</p><p>Dr Ewan McGaughey, at Cambridge's Centre for Business Research and King's College London, agrees that 'apocalyptic' views about the future of work are misguided. ''It's the laws that restrict the supply of capital to the job market, not the advent of new technologies that causes unemployment.''</p><p>His recently published research answers the question of whether automation, AI and robotics will mean a ''jobless future'' by looking at the causes of unemployment. ''History is clear that change can mean redundancies. But social policies can tackle this through retraining and redeployment.''</p><p>He adds: ''If there is going to be change to jobs as a result of AI and robotics then I'd like to see governments seizing the opportunity to improve policy to enforce good job security. We can ''reprogramme'' the law to prepare for a fairer future of work and leisure.'' McGaughey's findings are a call to arms to leaders of organisations, governments and banks to pre-empt the coming changes with bold new policies that guarantee full employment, fair incomes and a thriving economic democracy.</p><p>''The promises of these new technologies are astounding. They deliver humankind the capacity to live in a way that nobody could have once imagined,'' he adds. ''Just as the industrial revolution brought people past subsistence agriculture, and the corporate revolution enabled mass production, a third revolution has been pronounced. But it will not only be one of technology. The next revolution will be social.''</p>",
+        "groups": [
+          {
+            "id": "R3.g1",
+            "html": "",
+            "qs": [27,28,29,30,31]
+          },
+          {
+            "id": "R3.g2",
+            "html": "",
+            "qs": [32,33,34,35]
+          },
+          {
+            "id": "R3.g3",
+            "html": "",
+            "qs": [36,37,38,39,40]
+          }
+        ]
+      }
+    ]
+  },
+  "writing": {
+    "parts": [
+      {
+        "id": "W1",
+        "skill": "writing",
+        "prompt": "<h3>WRITING TASK 1</h3><p>You should spend about 20 minutes on this task.<br>The charts below show the changes in ownership of electrical appliances and amount of time spent doing housework in households in one country between 1920 and 2019.<br>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.<br>Write at least 150 words.<br><img src='https://drive.google.com/file/d/15OfVgq-S6dSD2VqB6yUzS4NGBWcLKT-s/view'></p>",
+        "groups": [
+          { 
+        "id": "W1.g1",
+        "qs": [1] 
+        }
+        ]
+      },
+      {
+        "id": "W2",
+        "skill": "writing",
+        "prompt": "<h3>WRITING TASK 2</h3><p>You should spend about 40 minutes on this task.<br>Write about the following topic:<br><b>In some countries, more and more people are becoming interested in finding out about the history of the house or building they live in.</b><br>What are the reasons for this?<br>How can people research this?<br>Give reasons for your answer and include any relevant examples from your own knowledge or experience.<br>Write at least 250 words.</p>",
+        "groups": [
+          {
+            "id": "W2.g1",
+            "qs": [2]
+          }
+        ]
+      }
+    ]
+  },
+  "answerKey": {
+    "listening": [
+      [["egg"],["tower"],["car"],["animals"],["bridge"],["movie","film"],["decorate"],["Wednesdays"],["Fradstone"],["parking"],["C"],["A"],["B"],["C"],["H"],["C"],["G"],["B"],["I"],["A"],["C","E"],["C","E"],["B","E"],["B","E"],["D"],["C"],["A"],["H"],["F"],["G"],["practical"],["publication"],["choices"],["negative"],["play"],["capitalism"],["depression"],["logic"],["opportunity"],["practice","practise"]]
+  ],
+    "reading": [
+      [["FALSE"],["FALSE"],["NOT GIVEN"],["TRUE"],["TRUE"],["FALSE"],["TRUE"],["violent"],["tool"],["meat"],["photographer"],["game"],["frustration"],["iv"],["vii"],["ii"],["v"],["i"],["viii"],["vi"],["city"],["priests"],["trench"],["location"],["B","D"],["B","D"],["B"],["D"],["C"],["D"],["G"],["E"],["C"],["F"],["B"],["A"],["C"],["A"],["B"],["C"]]
+  ]
+  }
+}
