@@ -132,7 +132,7 @@
       {
         "id": "W1",
         "skill": "writing",
-        "prompt": "<h4>WRITING TASK 1</h4><p>You should spend about 20 minutes on this task.<br><br>The chart below gives information about how families in one country spent their weekly income in 1968 and in 2018.<br><br>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.<br>Write at least 150 words.<br><img src='https://drive.google.com/file/d/1nZGeM6jELFbhMXeToSxzAogNmq62wZha/view'></p>",
+        "prompt": "<h4>WRITING TASK 1</h4><p>You should spend about 20 minutes on this task.<br><br>The graph below shows the number of shops that closed and the number of new shops that opened in one country between 2011 and 2018.<br><br>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.<br><br>Write at least 150 words.<br><img src='https://drive.google.com/file/d/1nZGeM6jELFbhMXeToSxzAogNmq62wZha/view'></p>",
         "groups": [
           {
             "id": "W1.g1",
@@ -143,7 +143,7 @@
       {
         "id": "W2",
         "skill": "writing",
-        "prompt": "<h4>WRITING TASK 2</h4><p>You should spend about 40 minutes on this task.<br><br>Write about the following topic:<br><br><b>Some people believe that professionals, such as doctors and engineers, should be required to work in the country where they did their training. Others believe they should be free to work in another country if they wish.</b><br><br>Discuss both these views and give your own opinion.<br><br>Give reasons for your answer and include any relevant examples from your own knowledge or experience.<br><br>Write at least 250 words.</p>",
+        "prompt": "<h4>WRITING TASK 2</h4><p>You should spend about 40 minutes on this task.<br><br>Write about the following topic:<br><br><b>Nowadays, a growing number of people with health problems are trying alternative medicines and treatments instead of visiting their usual doctor.</b><br><br>Do you think this is a positive or a negative development?<br><br>Give reasons for your answer and include any relevant examples from your own knowledge or experience.<br><br>Write at least 250 words.</p>",
         "groups": [
           {
             "id": "W2.g1",
