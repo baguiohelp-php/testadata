@@ -122,7 +122,7 @@
       {
         "id": "W1",
         "skill": "writing",
-        "prompt": "<h4>WRITING TASK 1</h4><p>You should spend about 20 minutes on this task.<br>The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.<br>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.<br>Write at least 150 words.<br><img src='https://drive.google.com/file/d/1AViddxtIDn8_shlPHLd73va2h00GoXeN/view'></p>",
+        "prompt": "<h4>WRITING TASK 1</h4><p>You should spend about 20 minutes on this task.<br>The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.<br>Summarise the information by selecting and reporting the main features, and make comparisons where relevant.<br>Write at least 150 words.<br><img src='https://drive.google.com/file/d/1bml4Z8gtAT0sD1s5tY7Uao8GCnorGHIq/view'></p>",
         "groups": [
           {
             "id": "W1.g1",
