@@ -1,6 +1,5 @@
 {
-  "id": "FT007",
-  "exam": "IELTS",
+  "id": "IELTS007",
   "listening": {
     "parts": [
       {
@@ -76,7 +75,7 @@
           },
           {
             "id": "R1.g3",
-            "html": "<h4>Questions <b>9–13</b></h4><p>Look at the following statements (Questions <b>9–13</b>) and the list of people below. Match each statement with the correct person, <b>A, B, C</b> or <b>D</b>. Write the correct letter, <b>A, B, C</b> or <b>D</b>, in boxes <b>9–13</b> on your answer sheet. <b>NB</b> You may use any letter more than once.</p><table border='1' cellspacing='0' cellpadding='1' width='100%'><caption>List of People</caption><thead><tr><th scope='col'>Letter</th><th scope='col'>Name</th></tr></thead><tbody><tr><td>A</td><td>Chris Cheeseman</td></tr><tr><td>B</td><td>Markus Mannström</td></tr><tr><td>C</td><td>Anna Surgenor</td></tr><tr><td>D</td><td>Felix Preston and Johanna Lehne</td></tr></tbody></table>",
+            "html": "<h4>Questions <b>9–13</b></h4><p>Look at the following statements (Questions <b>9–13</b>) and the list of people below. Match each statement with the correct person, <b>A, B, C</b> or <b>D</b>. Write the correct letter, <b>A, B, C</b> or <b>D</b>, in boxes <b>9–13</b> on your answer sheet. <b>NB</b> You may use any letter more than once.</p><table border='1' cellspacing='0' cellpadding='10' width='100%'><caption>List of People</caption><thead><tr><th scope='col'>Letter</th><th scope='col'>Name</th></tr></thead><tbody><tr><td>A</td><td>Chris Cheeseman</td></tr><tr><td>B</td><td>Markus Mannström</td></tr><tr><td>C</td><td>Anna Surgenor</td></tr><tr><td>D</td><td>Felix Preston and Johanna Lehne</td></tr></tbody></table>",
             "qs": [9, 10, 11, 12, 13]
           }
         ]
