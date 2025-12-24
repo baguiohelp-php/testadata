@@ -1,6 +1,5 @@
 {
-  "id": "FT019",
-  "exam": "IELTS",
+  "id": "IELTS019",
   "listening": {
     "parts": [
       {
@@ -71,7 +70,7 @@
           },
           {
             "id": "R1.g2",
-            "html": "<b>Questions 6–13</b><p>Complete the summary below.</p><p>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</p><p>Write your answers in boxes 6–13 on your answer sheet.</p><table border='1' cellspacing='0' cellpadding='1' width='100%'><tbody><tr><td><b>Warships and merchant ships</b><br><br>Warships were designed so that they were <b>6</b> ………………………………………………… and moved quickly. They often remained afloat after battles and were able to sail close to land as they lacked any additional weight. A battering ram made of <b>7</b> ………………………………………………… was included in the design for attacking and damaging the timber and oars of enemy ships. Warships, such as the ''trime'', had rowers on three different <b>8</b> ………………………………………………… .<br><br>Unlike warships, merchant ships had a broad <b>9</b> ………………………………………………… that lay far below the surface of the sea. Merchant ships were steered through the water with the help of large rudders and a tiller bar. They had both square and <b>10</b> …………… sails. On merchant ships and warships, <b>11</b> ………………………………………………… was used to ensure rowers moved their oars in and out of the water at the same time.<br><br>Quantities of agricultural goods such as <b>12</b> ………………………………………………… were transported by merchant ships to two main ports in Italy. The ships were pulled to the shore by <b>13</b> ………………………………………………… . When the weather was clear and they could see islands or land, sailors used landmarks that they knew to help them navigate their route.</td></tr></tbody></table>",
+            "html": "<b>Questions 6–13</b><p>Complete the summary below.</p><p>Choose <b>ONE WORD ONLY</b> from the passage for each answer.</p><p>Write your answers in boxes 6–13 on your answer sheet.</p><table border='1' cellspacing='0' cellpadding='10' width='100%'><tbody><tr><td><b>Warships and merchant ships</b><br><br>Warships were designed so that they were <b>6</b> ………………………………………………… and moved quickly. They often remained afloat after battles and were able to sail close to land as they lacked any additional weight. A battering ram made of <b>7</b> ………………………………………………… was included in the design for attacking and damaging the timber and oars of enemy ships. Warships, such as the ''trime'', had rowers on three different <b>8</b> ………………………………………………… .<br><br>Unlike warships, merchant ships had a broad <b>9</b> ………………………………………………… that lay far below the surface of the sea. Merchant ships were steered through the water with the help of large rudders and a tiller bar. They had both square and <b>10</b> …………… sails. On merchant ships and warships, <b>11</b> ………………………………………………… was used to ensure rowers moved their oars in and out of the water at the same time.<br><br>Quantities of agricultural goods such as <b>12</b> ………………………………………………… were transported by merchant ships to two main ports in Italy. The ships were pulled to the shore by <b>13</b> ………………………………………………… . When the weather was clear and they could see islands or land, sailors used landmarks that they knew to help them navigate their route.</td></tr></tbody></table>",
             "qs": [6,7,8,9,10,11,12,13]
           }  
         ]
