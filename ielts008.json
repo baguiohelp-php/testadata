@@ -76,8 +76,13 @@
           },
           {
             "id": "R1.g3",
-            "html": "<p><b>Questions 10 and 11</b></p><p>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 10 and 11 on your answer sheet.</p><p>Which <b>TWO</b> advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?<br>- <b>A</b> a longer growing season for edible produce<br>- <b>B</b> more economical use of water<br>- <b>C</b> greater water-storage capacity<br>- <b>D</b> ability to cultivate more plant types<br>- <b>E</b> a large surface area for growing plants</p><p><b>Questions 12 and 13</b></p><p>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 12 and 13 on your answer sheet.</p><p>Which <b>TWO</b> aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?<br>- <b>A</b> to provide habitats for a wide range of species<br>- <b>B</b> to grow plants successfully even in the wettest climates<br>- <b>C</b> to regulate the temperature of the immediate environment<br>- <b>D</b> to generate power from a sustainable source<br>- <b>E</b> to collect water to supply other buildings</p>",
+            "html": "<p><b>Questions 10 and 11</b></p><p>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 10 and 11 on your answer sheet.</p><p>Which <b>TWO</b> advantages of using newer buildings for green roofs are mentioned in Paragraph C of the passage?<br>- <b>A</b> a longer growing season for edible produce<br>- <b>B</b> more economical use of water<br>- <b>C</b> greater water-storage capacity<br>- <b>D</b> ability to cultivate more plant types<br>- <b>E</b> a large surface area for growing plants</p>",
             "qs": [10, 11]
+          },
+          {
+            "id": "R1.g4",
+            "html": "<<p><b>Questions 12 and 13</b></p><p>Choose <b>TWO</b> letters, <b>A–E</b>.<br>Write the correct letters in boxes 12 and 13 on your answer sheet.</p><p>Which <b>TWO</b> aims of new variations on the concept of green roofs are mentioned in Paragraph E of the passage?<br>- <b>A</b> to provide habitats for a wide range of species<br>- <b>B</b> to grow plants successfully even in the wettest climates<br>- <b>C</b> to regulate the temperature of the immediate environment<br>- <b>D</b> to generate power from a sustainable source<br>- <b>E</b> to collect water to supply other buildings</p>",
+            "qs": [12, 13]
           }
         ]
       },
