@@ -1,6 +1,5 @@
 {
-  "id": "FT016",
-  "exam": "IELTS",
+  "id": "IELTS016",
   "listening": {
     "parts": [
       {
@@ -105,7 +104,7 @@
         "groups": [
           {
             "id": "R3.g1",
-            "html": "<h4>Questions 27-31</h4><p>Reading Passage 3 has seven paragraphs, <b>A-G.</b></p><p>Which paragraph contains the following information?</p><p><b>NB</b> You may use any letter more than once.</p><table border='1' cellspacing='0' cellpadding='1' width='100%'><tbody><tr><td><b>27.</b> an example of how one predator has been protected by the introduction of livestock guard dogs</td></tr><tr><td><b>28.</b> an optimistic suggestion about the possible positive developments in the use of livestock guard dogs</td></tr><tr><td><b>29.</b> a description of how the methods used by livestock guard dogs help to keep predators away</td></tr><tr><td><b>30.</b> claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers' herds</td></tr><tr><td><b>31.</b> a reference to how livestock guard dogs gain their skills</td></tr></tbody></table>",
+            "html": "<h4>Questions 27-31</h4><p>Reading Passage 3 has seven paragraphs, <b>A-G.</b></p><p>Which paragraph contains the following information?</p><p><b>NB</b> You may use any letter more than once.</p><table border='1' cellspacing='0' cellpadding='10' width='100%'><tbody><tr><td><b>27.</b> an example of how one predator has been protected by the introduction of livestock guard dogs</td></tr><tr><td><b>28.</b> an optimistic suggestion about the possible positive developments in the use of livestock guard dogs</td></tr><tr><td><b>29.</b> a description of how the methods used by livestock guard dogs help to keep predators away</td></tr><tr><td><b>30.</b> claims by different academics that the use of livestock guard dogs is a successful way of protecting farmers' herds</td></tr><tr><td><b>31.</b> a reference to how livestock guard dogs gain their skills</td></tr></tbody></table>",
             "qs": [27,28,29,30,31]
           },
           {
